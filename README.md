@@ -6,6 +6,10 @@
 -  I like to write code 24/7
 -  I am constantly learning new things
 
+## Have you already overtook me on Codewars?
+<a href="https://www.codewars.com/users/tomun" rel="noopener noreferrer" target="_blank"><img src="https://www.codewars.com/users/tomun/badges/large" alt="codewars badge"></a>
+
+
 ### Connect with me:
 
 <img align="left" alt="TomunArsen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
