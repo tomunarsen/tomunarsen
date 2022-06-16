@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tomunarsen)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer
 -  I like to write code 24/7
 -  I am constantly learning new things
 
